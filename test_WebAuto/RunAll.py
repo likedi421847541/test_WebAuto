@@ -2,7 +2,8 @@
 import unittest
 import os
 import time
-from framework import HTMLTestRunner
+from test_WebAuto.framework import HTMLTestRunner
+from test_WebAuto.framework.SendEmail import SendMail
 cur_path = os.path.dirname(os.path.realpath(__file__))
 print(cur_path)
 report_path = cur_path + '/test_report/'#设置报告文件的地址
@@ -23,3 +24,6 @@ if __name__ == '__main__':
     runner = HTMLTestRunner.HTMLTestRunner(stream=fp,title=u'Web 自动化测试报告')
     runner.run(suite)
     fp.close()
+    sendMail = SendMail()
+    sendMail.send()
+
