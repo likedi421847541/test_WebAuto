@@ -62,7 +62,9 @@ class Base():
 
     def get_text(self,locator): #二次封装获取文本
         ele1 = self.findEle(locator)
+        time.sleep(2)
         ele2 = ele1.text
+        #print('文本时{}'.format(ele2))
         logger.info('{}元素的文本是{}'.format(ele1,ele2))
         return ele2
     def get_windows_img(self): #保存照片

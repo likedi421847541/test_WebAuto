@@ -17,3 +17,445 @@
 [2020-09-08 00:02:06,249] - logger.py] - INFO: 已经定位到元素！
 [2020-09-08 00:02:06,333] - logger.py] - INFO: 元素已被点击！
 [2020-09-08 00:02:25,897] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 11:38:09,498] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 11:38:09,499] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 11:38:09,500] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 11:47:51,939] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 11:47:51,940] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 11:47:51,941] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 11:49:30,907] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 11:49:31,654] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:31,906] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 11:49:31,938] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:32,061] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 11:49:32,088] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:32,119] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="ef245f2ccdf5d7316a159deb26232e66", element="0.7115723358514048-3")>元素的文本是This field is required.
+[2020-09-08 11:49:34,836] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:35,449] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 11:49:35,464] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:35,749] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 11:49:35,771] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:35,866] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 11:49:35,882] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 11:49:36,047] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 11:49:37,271] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 12:20:39,558] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 12:20:39,560] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 12:20:39,561] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 12:21:03,388] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 12:21:04,449] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:04,596] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 12:21:04,617] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:04,852] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:21:04,871] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:05,002] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:21:05,034] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:05,066] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="1e6ccdcbf0be227db0abdef1e9ec3fc5", element="0.7856500999221279-4")>元素的文本是Invalid email address.
+[2020-09-08 12:21:07,749] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:08,027] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:21:08,041] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:08,208] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 12:21:08,221] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:08,322] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:21:08,425] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:08,467] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="1e6ccdcbf0be227db0abdef1e9ec3fc5", element="0.9041360210717599-4")>元素的文本是
+[2020-09-08 12:21:10,588] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:10,973] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:21:10,987] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:11,083] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:21:11,114] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:11,143] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="1e6ccdcbf0be227db0abdef1e9ec3fc5", element="0.3953516157178749-3")>元素的文本是email is required!
+[2020-09-08 12:21:13,251] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:13,581] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:21:13,593] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:13,701] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:21:13,720] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:13,756] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="1e6ccdcbf0be227db0abdef1e9ec3fc5", element="0.27563955491598047-3")>元素的文本是password is required
+[2020-09-08 12:21:16,397] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:16,654] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:21:16,667] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:16,845] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:21:16,866] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:16,944] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:21:16,956] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:21:17,026] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:21:17,857] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 12:25:02,830] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 12:25:02,831] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 12:25:02,832] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 12:25:35,357] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 12:25:35,380] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:35,493] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 12:25:35,516] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:35,690] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:25:35,706] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:35,793] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:25:35,840] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:35,870] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="060019257aac6f5cc39c79152413287d", element="0.38419860568791475-4")>元素的文本是Invalid email address.
+[2020-09-08 12:25:38,310] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:38,579] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:25:38,594] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:38,765] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 12:25:38,779] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:38,887] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:25:38,921] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:38,949] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="060019257aac6f5cc39c79152413287d", element="0.3717198244315061-4")>元素的文本是
+[2020-09-08 12:25:41,299] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:41,486] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:25:41,499] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:41,586] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:25:41,631] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:41,659] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="060019257aac6f5cc39c79152413287d", element="0.518247910700097-3")>元素的文本是email is required!
+[2020-09-08 12:25:43,992] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:44,258] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:25:44,272] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:44,390] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:25:44,422] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:44,447] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="060019257aac6f5cc39c79152413287d", element="0.5844012011351631-3")>元素的文本是password is required
+[2020-09-08 12:25:46,630] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:46,893] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:25:46,904] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:47,079] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:25:47,099] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:47,186] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:25:47,198] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:25:47,280] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:25:48,177] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 12:26:46,004] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 12:26:46,005] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 12:26:46,006] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 12:27:15,430] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 12:27:16,501] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:16,592] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 12:27:16,629] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:16,789] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:27:16,814] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:16,909] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:27:16,931] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:16,956] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="86da870baae812cff1e179e01d72688f", element="0.030381836853628608-4")>元素的文本是Invalid email address.
+[2020-09-08 12:27:19,830] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:20,019] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:27:20,031] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:20,121] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 12:27:20,133] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:20,255] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:27:20,287] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:20,312] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="86da870baae812cff1e179e01d72688f", element="0.9734947553432134-4")>元素的文本是
+[2020-09-08 12:27:22,659] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:22,804] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:27:22,818] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:22,905] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:27:22,921] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:22,942] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="86da870baae812cff1e179e01d72688f", element="0.11936889630663705-3")>元素的文本是This field is required.
+[2020-09-08 12:27:25,396] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:25,591] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:27:25,603] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:25,689] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:27:25,706] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:25,731] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="86da870baae812cff1e179e01d72688f", element="0.9040675028950909-3")>元素的文本是This field is required.
+[2020-09-08 12:27:28,168] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:28,359] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 12:27:28,369] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:28,514] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 12:27:28,533] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:28,621] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:27:28,633] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 12:27:28,715] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 12:27:29,786] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 13:54:48,245] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 13:54:48,247] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 13:54:48,248] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 13:55:17,407] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 13:55:18,463] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:18,557] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 13:55:18,594] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:18,750] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 13:55:18,771] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:18,880] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 13:55:18,904] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:18,938] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="652923c71726b7718fbce4564514c99e", element="0.31829223985566024-4")>元素的文本是Invalid email address.
+[2020-09-08 13:55:25,990] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:26,281] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 13:55:26,294] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:26,383] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 13:55:26,397] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:26,475] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 13:55:26,518] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:26,547] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="652923c71726b7718fbce4564514c99e", element="0.39082568840022014-4")>元素的文本是
+[2020-09-08 13:55:29,789] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:29,919] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 13:55:29,930] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:30,029] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 13:55:30,051] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:30,075] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="652923c71726b7718fbce4564514c99e", element="0.051667340837664444-3")>元素的文本是email is required!
+[2020-09-08 13:55:33,054] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:33,278] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 13:55:33,290] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:33,384] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 13:55:33,408] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:33,431] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="652923c71726b7718fbce4564514c99e", element="0.532459521050467-3")>元素的文本是password is required
+[2020-09-08 13:55:36,397] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:36,644] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 13:55:36,658] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:36,839] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 13:55:36,869] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:36,972] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 13:55:36,990] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 13:55:37,096] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 13:55:39,999] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 14:50:39,450] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 14:50:39,453] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 14:50:39,455] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 14:51:05,299] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 14:51:06,378] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:06,523] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 14:51:06,548] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:06,765] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 14:51:06,783] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:06,891] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:51:06,938] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:06,964] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="3f2c8bed1b9071ccacddb50fed224cb8", element="0.7432594272465467-4")>元素的文本是Invalid email address.
+[2020-09-08 14:51:10,139] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:10,404] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 14:51:10,418] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:10,569] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 14:51:10,582] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:10,685] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:51:10,713] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:10,739] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="3f2c8bed1b9071ccacddb50fed224cb8", element="0.2629136707855846-4")>元素的文本是
+[2020-09-08 14:51:14,062] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:14,253] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 14:51:14,267] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:14,389] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:51:14,428] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:14,460] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="3f2c8bed1b9071ccacddb50fed224cb8", element="0.7943412347988219-3")>元素的文本是email is required!
+[2020-09-08 14:51:17,802] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:18,075] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 14:51:18,085] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:18,220] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:51:18,243] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:18,268] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="3f2c8bed1b9071ccacddb50fed224cb8", element="0.18482911208752695-3")>元素的文本是password is required
+[2020-09-08 14:51:21,451] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:21,718] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 14:51:21,731] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:21,928] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 14:51:21,949] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:22,027] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:51:22,043] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:51:22,122] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:51:25,223] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 14:51:49,231] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 14:51:49,233] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 14:51:49,235] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 14:52:11,976] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 14:52:13,031] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:52:13,347] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 14:52:13,379] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:52:13,576] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 14:52:13,601] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:52:13,739] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:52:13,804] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:52:13,853] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="28128bdfa34332e2c880b0d581b313cd", element="0.820889124737264-4")>元素的文本是
+[2020-09-08 14:52:16,984] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 14:56:50,686] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 14:56:50,687] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 14:56:50,688] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 14:57:17,754] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 14:57:18,808] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:57:19,152] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 14:57:19,173] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:57:19,328] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 14:57:19,346] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:57:19,470] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 14:57:21,493] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 14:57:21,518] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="eaa328b360b4724ba14620345d0a48db", element="0.005867295235160608-4")>元素的文本是
+[2020-09-08 14:57:24,803] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 14:59:44,093] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 14:59:44,095] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 14:59:44,097] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:00:08,879] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:00:09,973] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:00:10,261] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:00:10,283] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:00:10,441] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 15:00:10,458] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:00:10,574] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:00:12,595] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:00:12,617] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="29deb13a65f53d0c0de97e79841c33f5", element="0.41090217506587523-4")>元素的文本是
+[2020-09-08 15:00:15,736] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:02:18,330] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:02:18,332] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:02:18,333] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:02:52,516] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:02:54,198] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:02:54,446] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:02:54,469] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:02:54,599] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 15:02:54,617] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:02:54,723] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:02:56,747] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:02:56,770] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="aabd3891c665f81fb01b2908354dd61d", element="0.21959596815197058-4")>元素的文本是
+[2020-09-08 15:02:59,991] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:04:19,268] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:04:19,269] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:04:19,270] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:04:46,128] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:04:47,886] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:04:48,450] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:04:48,505] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:04:48,688] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 15:04:48,720] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:04:48,857] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:04:51,037] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:04:54,064] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="33832b99ae99e0d25e2a6f3352d2db76", element="0.08323140347673985-4")>元素的文本是The username or password is incorrect.
+[2020-09-08 15:04:57,113] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:06:30,491] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:06:30,493] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:06:30,494] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:07:04,790] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:07:05,985] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:06,202] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 15:07:06,242] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:06,428] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:07:06,448] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:06,562] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:07:06,584] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:08,615] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="d2684265c6c1cddb9737cf59b78669a7", element="0.4589268819446781-4")>元素的文本是Invalid email address.
+[2020-09-08 15:07:11,511] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:11,991] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:07:12,007] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:12,116] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 15:07:12,131] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:12,251] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:07:14,276] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:16,297] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="d2684265c6c1cddb9737cf59b78669a7", element="0.36423549919222387-4")>元素的文本是The username or password is incorrect.
+[2020-09-08 15:07:18,766] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:18,901] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:07:18,915] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:19,024] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:07:19,047] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:21,099] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="d2684265c6c1cddb9737cf59b78669a7", element="0.956885584423331-3")>元素的文本是email is required!
+[2020-09-08 15:07:23,644] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:23,876] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:07:23,892] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:24,014] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:07:24,045] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:26,067] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="d2684265c6c1cddb9737cf59b78669a7", element="0.137731987791742-3")>元素的文本是password is required
+[2020-09-08 15:07:28,557] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:28,809] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:07:28,822] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:28,952] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:07:28,972] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:29,064] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:07:29,079] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:07:29,158] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:07:30,095] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:08:38,335] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:08:38,335] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:08:38,337] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:09:04,514] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:09:05,731] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:05,832] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 15:09:05,850] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:05,965] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:09:05,981] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:11,076] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:09:11,110] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:13,160] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="11b089a371169e66d739b8eaaa0da942", element="0.4298247344837034-4")>元素的文本是Invalid email address.
+[2020-09-08 15:09:18,736] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:18,984] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:09:19,005] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:19,144] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 15:09:19,185] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:24,305] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:09:26,326] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:28,362] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="11b089a371169e66d739b8eaaa0da942", element="0.9951940208837091-4")>元素的文本是The username or password is incorrect.
+[2020-09-08 15:09:32,741] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:32,887] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:09:32,906] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:38,043] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:09:38,060] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:40,118] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="11b089a371169e66d739b8eaaa0da942", element="0.5311895787135168-3")>元素的文本是email is required!
+[2020-09-08 15:09:44,068] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:44,281] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:09:44,296] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:47,836] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:09:47,873] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:49,893] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="11b089a371169e66d739b8eaaa0da942", element="0.8384656770652106-3")>元素的文本是password is required
+[2020-09-08 15:09:54,932] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:55,178] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:09:55,206] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:09:55,642] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:09:55,740] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:10:00,954] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:10:00,982] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:10:06,072] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:10:07,027] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:43:08,239] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:43:08,241] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:43:08,243] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:43:37,557] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:44:31,656] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:45:01,504] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:45:01,507] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:45:01,509] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:45:34,288] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:45:35,420] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:45:36,100] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:45:36,101] - logger.py] - INFO: 已输入邮箱
+[2020-09-08 15:45:36,138] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:45:36,384] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:45:36,415] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:45:36,554] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:45:36,589] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:45:36,838] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:46:14,618] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:46:16,644] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="94a57bb0096fc8fa476eff0d4a1f87d1", element="0.3616886807200337-5")>元素的文本是Home
+[2020-09-08 15:46:17,983] - logger.py] - INFO: 现在，关闭浏览器
+[2020-09-08 15:46:29,366] - logger.py] - INFO: 您已经选择Chrome浏览器
+[2020-09-08 15:46:29,368] - logger.py] - INFO: 您即将测试的网站是https://web.learning-genie.com/#/login
+[2020-09-08 15:46:29,369] - logger.py] - INFO: 打开谷歌浏览器
+[2020-09-08 15:47:10,447] - logger.py] - INFO: 打开网站: https://web.learning-genie.com/#/login
+[2020-09-08 15:47:10,470] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:10,797] - logger.py] - INFO: 已经将421输入文本框中
+[2020-09-08 15:47:10,798] - logger.py] - INFO: 已输入邮箱
+[2020-09-08 15:47:10,821] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:11,098] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:47:11,122] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:11,239] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:47:11,297] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:13,335] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="43823d5cfab8da2e11d043fa8696e794", element="0.764915797570237-4")>元素的文本是Invalid email address.
+[2020-09-08 15:47:16,109] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:16,490] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:47:16,491] - logger.py] - INFO: 已输入邮箱
+[2020-09-08 15:47:16,513] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:16,732] - logger.py] - INFO: 已经将1234输入文本框中
+[2020-09-08 15:47:16,748] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:16,895] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:47:18,922] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:20,946] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="43823d5cfab8da2e11d043fa8696e794", element="0.7959945366778087-4")>元素的文本是The username or password is incorrect.
+[2020-09-08 15:47:23,238] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:23,413] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:47:23,423] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:23,523] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:47:23,568] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:25,591] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="43823d5cfab8da2e11d043fa8696e794", element="0.14566317197360545-3")>元素的文本是email is required!
+[2020-09-08 15:47:28,682] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:28,961] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:47:28,962] - logger.py] - INFO: 已输入邮箱
+[2020-09-08 15:47:28,973] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:29,112] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:47:29,142] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:31,182] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="43823d5cfab8da2e11d043fa8696e794", element="0.575451787083674-3")>元素的文本是password is required
+[2020-09-08 15:47:33,815] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:34,102] - logger.py] - INFO: 已经将421847541@qq.com输入文本框中
+[2020-09-08 15:47:34,103] - logger.py] - INFO: 已输入邮箱
+[2020-09-08 15:47:34,115] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:34,311] - logger.py] - INFO: 已经将12345678q输入文本框中
+[2020-09-08 15:47:34,330] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:34,415] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:47:34,432] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:47:34,507] - logger.py] - INFO: 元素已被点击！
+[2020-09-08 15:48:07,108] - logger.py] - INFO: 已经定位到元素！
+[2020-09-08 15:48:09,136] - logger.py] - INFO: <selenium.webdriver.remote.webelement.WebElement (session="43823d5cfab8da2e11d043fa8696e794", element="0.9176184369780933-5")>元素的文本是Home
+[2020-09-08 15:48:10,543] - logger.py] - INFO: 现在，关闭浏览器

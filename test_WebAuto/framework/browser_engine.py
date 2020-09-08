@@ -39,7 +39,7 @@ class BrowserEngine():
             chrome_options = webdriver.ChromeOptions()
             chrome_options.add_argument('lang=EN')  # 设置浏览器默认语言为英文
             logger.info('打开谷歌浏览器')
-            self.driver = webdriver.Chrome(self.chrome_driver_path,options= chrome_options) # 初始化一个实例
+            self.driver = webdriver.Chrome(options= chrome_options) # 初始化一个实例
         elif browser == 'IE':
             self.driver = webdriver.Ie(self.ie_driver_path)
             logger.info('开始 IE 浏览器')
